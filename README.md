@@ -53,10 +53,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Show database in terminal:
   * users table:
   <div align = center>
-   <img width="600" height="250" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db1.jpeg"/>
+   <img width="600" height="230" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db1.jpeg"/>
   </div>
 
   * login table:
   <div align = center>
-   <img width="600" height="250" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db2.jpeg"/>
+   <img width="600" height="230" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db2.jpeg"/>
   </div>
