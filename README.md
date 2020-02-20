@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `Test`
 * Sign in an account that already exists:
-<div align=left>
+<div margin-left:5px>
  <img width="500" height="290" src="https://github.com/YueLiu-ada/README-imgs/blob/master/signin.jpeg"/>
 </div>
 
