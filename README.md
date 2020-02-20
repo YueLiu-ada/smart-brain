@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `Test`
 * Sign in an account that already exists:
-<img width="500" height="330" src="https://github.com/YueLiu-ada/README-imgs/blob/master/signin.jpeg"/>
+<img width="500" height="310" src="https://github.com/YueLiu-ada/README-imgs/blob/master/signin.jpeg"/>
 
 * Show this account's name and his/her current entry count:
 ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/2.jpeg)
