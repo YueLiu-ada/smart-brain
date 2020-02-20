@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## `Test`
 * Sign in an account that already exists:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/signin_small.jpeg)
+![image](https://github.com/YueLiu-ada/README-imgs/blob/master/signin.jpeg)
 
 * Show this account's name and his/her current entry count:
 ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/2.jpeg)
@@ -31,7 +31,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/3.jpeg)
 
 * Register a new account:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/register_small.jpeg)
+![image](https://github.com/YueLiu-ada/README-imgs/blob/master/register.jpeg)
+
 ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/reg3.jpeg)
 
 * Make a face recognition in this new account:
