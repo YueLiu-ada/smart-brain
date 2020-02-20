@@ -27,21 +27,36 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </div>
 
 * Show this account's name and his/her current entry count:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/2.jpeg)
+<div align = center>
+ <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/2.jpeg"/>
+</div>
 
 * Find a picture on the website and give it another try:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/3.jpeg)
+<div align = center>
+ <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/3.jpeg"/>
+</div>
 
 * Register a new account:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/register.jpeg)
+<div align = center>
+ <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/register.jpeg"/>
+</div>
 
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/reg3.jpeg)
+<div align = center>
+ <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/reg3.jpeg"/>
+</div>
 
 * Make a face recognition in this new account:
-![image](https://github.com/YueLiu-ada/README-imgs/blob/master/reg4.jpeg)
+<div align = center>
+ <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/reg4.jpeg"/>
+</div>
 
 * Show database in terminal:
   * users table:
-  ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/db1.jpeg)
+  <div align = center>
+   <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db1.jpeg"/>
+  </div>
+
   * login table:
-  ![image](https://github.com/YueLiu-ada/README-imgs/blob/master/db2.jpeg)
+  <div align = center>
+   <img width="600" height="350" src="https://github.com/YueLiu-ada/README-imgs/blob/master/db2.jpeg"/>
+  </div>
